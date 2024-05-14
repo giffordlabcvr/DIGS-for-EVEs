@@ -6,8 +6,6 @@ Whole genome sequence (WGS) assemblies screened in this project were obtained fr
 
 DIGS was performed using the DIGS tool, an open software framework available [here](https://giffordlabcvr.github.io/DIGS-tool/). 
 
-Our aim is to provide researchers with comprehensive resources for studying EVEs. 
-
 ## Contents
 
 1. **Input Files**:
