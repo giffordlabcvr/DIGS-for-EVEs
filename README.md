@@ -23,13 +23,13 @@ In DIGS-for-EVEs we have applied a systematic approach to naming of non-retrovir
 
 e.g. **EBLG-Carbovirus.2-Boreoeutheria**
 
-- **The first component** identifies the type of EVE, in relation to the virus family it derives from (see below for a glossary of EVE types).
+- **The first component** identifies the type of EVE (EBLG). Please see below for a glossary of EVE types.
 
 - **The second component**, a combination of two distinct subcomponents separated by a period, defines:
-  - (i) The name of the taxonomic group from which the EVE derives.
-  - (ii) A numeric ID that uniquely identifies the insertion within the EVE category and taxonomic group to which it has been assigned. Orthologous copies in different species share the same number.
+  - (i) The name of the taxonomic group from which the EVE derives (Carbovirus).
+  - (ii) A numeric ID (2) that uniquely identifies the insertion within the EVE category and taxonomic group to which it has been assigned. Orthologous copies in different species share the same number.
 
-- **The third component** of the ID specifies the set of host species in which the ortholog occurs. For EVEs only known to occur in a single species, the Latin binomial species name is given. Where EVEs are shared across multiple species, we provide a taxonomic group name to capture that range of species. 
+- **The third component** of the ID specifies the host species or species group in which the ortholog occurs (magnorder Boreoeutheria). For EVEs only known to occur in a single species, the Latin binomial species name is given. Where EVEs are shared across multiple species, we provide a taxonomic group name to capture that range of species. 
 
 This systematic naming approach facilitates clear identification and comparison of EVEs across different species and contexts.
 
