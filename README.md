@@ -19,7 +19,7 @@ Our aim is to provide researchers with comprehensive resources for studying EVEs
 
 ## Standardised Nomenclature for EVE loci
 
-In DIGS-for-EVEs we have applied a systematic approach to naming Endogenous Viral Elements (EVEs), following a convention developed for endogenous retroviruses. Each element is assigned a unique identifier (ID) constructed from a defined set of components, separated by hyphens: e.g. **EBLG-Carbovirus.2-Boreoeutheria**
+In DIGS-for-EVEs we have applied a systematic approach to naming Endogenous Viral Elements (EVEs), following a convention [developed for endogenous retroviruses](https://doi.org/10.1186/s12977-018-0442-1). Each element is assigned a unique identifier (ID) constructed from a defined set of components, separated by hyphens: e.g. **EBLG-Carbovirus.2-Boreoeutheria**
 
 
 - The **first component** identifies the type of EVE. (Please refer below for a glossary of EVE types defined thus far.)
