@@ -62,7 +62,7 @@ This systematic naming approach facilitates clear identification and comparison 
 
 ## References
 
-Investigations of the data generated as part this project have been described in the following publications:
+Investigations of the data generated in this project have been described in the following publications:
 
 1. Blanco-Melo, D., et al. (2023). A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus ‘fossil record’. *bioRxiv*, 2023: p. 2023.10.17.562709.
 
