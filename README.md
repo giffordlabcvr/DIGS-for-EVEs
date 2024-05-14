@@ -62,9 +62,9 @@ This systematic naming approach facilitates clear identification and comparison 
 
 ## References
 
-Investigations of the data generated in this project have been described in the following publications:
+Investigations of  data generated in this project have been reported in the following open access publications:
 
-1. Blanco-Melo, D., et al. (2023). A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus ‘fossil record’. *bioRxiv*, 2023: p. 2023.10.17.562709.
+1. Blanco-Melo, D., et al. (2024). A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus ‘fossil record’. *Genome Biology*, 25, Article number: 120 
 
 2. Campbell, M.A., et al. (2022). Comparative analysis reveals the long-term coevolutionary history of parvoviruses and vertebrates. *PLoS Biol*, 20(11): p. e3001867.
 
@@ -72,13 +72,11 @@ Investigations of the data generated in this project have been described in the 
 
 4. Lytras, S., G. Arriagada, and R.J. Gifford. (2021). Ancient evolution of hepadnaviral paleoviruses and their impact on host genomes. *Virus Evol*, 7(1): p. veab012.
 
-5. Hildebrandt, E., et al. (2020). Evolution of dependoparvoviruses across geological timescales-implications for design of AAV-based gene therapy vectors. *Virus Evol*, 6(2): p. veaa043.
+5. Dennis, T.P.W., et al. (2019). The evolution, distribution and diversity of endogenous circoviral elements in vertebrate genomes. *Virus Res*, 262: p. 15-23.
 
-6. Dennis, T.P.W., et al. (2019). The evolution, distribution and diversity of endogenous circoviral elements in vertebrate genomes. *Virus Res*, 262: p. 15-23.
+6. Pénzes, J.J., et al. (2018). Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses. *Virus Evol*, 4(2): p. vey026.
 
-7. Pénzes, J.J., et al. (2018). Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses. *Virus Evol*, 4(2): p. vey026.
-
-8. Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. *J Gen Virol*, 98(2): p. 225-229.
+7. Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. *J Gen Virol*, 98(2): p. 225-229.
 
 
 ## Contributing
