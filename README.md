@@ -32,6 +32,33 @@ In DIGS-for-EVEs we have applied a systematic approach to naming Endogenous Vira
 
 This systematic naming approach facilitates clear identification and comparison of EVEs across different species and contexts.
 
+### Glossary of EVE Types:
+
+#### DNA viruses & Retroviruses
+
+- **ECV**: Endogenous Circovirus-like Element
+- **EPV**: Endogenous Parvovirus-like Element
+- **ERV**: Endogenous Retrovirus
+- **EHBV**: Endogenous Hepatitis B Virus
+- **ciHV**: Chromosomally-Integrated Herpesvirus
+
+#### RNA viruses
+
+- **EBLG**: Endogenous Borna-like Glycoprotein
+- **EBLL**: Endogenous Borna-like L Protein
+- **EBLN**: Endogenous Borna-like Nucleoprotein
+- **EBLM**: Endogenous Borna-like Matrix protein
+- **EFLH**: Endogenous Filo-like VP30
+- **EFLN**: Endogenous Filo-like Nucleoprotein
+- **EFLL**: Endogenous Filo-like L Protein
+- **EFLP**: Endogenous Filo-like Phosphoprotein
+- **ECLL**: Endogenous Chu-like L Protein
+- **ECLN**: Endogenous Chu-like Nucleoprotein
+- **ECLM**: Endogenous Chu-like Matrix protein
+- **EPLL**: Endogenous Paramxyo-like L Protein
+- **EPLN**: Endogenous Paramxyo-like Nucleoprotein
+- **EPLH**: Endogenous Paramxyo-like Hemagglutinin (HA)-Neuraminidase Protein
+- **EFL**: Endogenous Flavivirus-like Element
 
 ## Contributing
 
