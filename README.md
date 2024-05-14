@@ -23,17 +23,23 @@ In DIGS-for-EVEs we have applied a systematic approach to naming of non-retrovir
 
 e.g. **EBLG-Carbovirus.2-Boreoeutheria**
 
-- The **first component** identifies the type of EVE. (Please refer below for a glossary of EVE types defined thus far.)
+- The first component identifies the type of EVE, in relation to the virus family it derives from (see below for a glossary of EVE types).
 
-- The **second component**, a combination of two distinct subcomponents separated by a period, defines:
-  - (i) The name of the EVE group.
-  - (ii) A numeric ID that uniquely identifies the insertion. Orthologous copies in different species share the same number.
+- The second component, a combination of two distinct subcomponents separated by a period, defines:
+  - (i) The name of the taxonomic group from which the EVE derives.
+  - (ii) A numeric ID that uniquely identifies the insertion within the given EVE category and taxonomic group. Orthologous copies in different species share the same number.
 
-- The **third component** of the ID specifies the set of host species in which the ortholog occurs.
+- The third component of the ID specifies the set of host species in which the ortholog occurs. For EVEs only known to occur in a single species, the Latin binomial species name is given. Where EVEs are shared across multiple species, we provide a taxonomic group name to capture that range of species. 
 
 This systematic naming approach facilitates clear identification and comparison of EVEs across different species and contexts.
 
-**Please note**: although this naming convention was originally developed for ERVs, we have not yet applied it to ERV loci recovered via DIGS. Given the vast number of ERV loci present in vertebrate genomes, this will inevitably pose more significant challenges and require a longer-term effort compared to non-retroviral EVEs.
+**Please note the following**: 
+
+1. Taxonomic groups were assigned to EVEs as accurately as possible based on phylogenetic/genomic analysis. For EVEs that could not be confidently classified to a subgroup, the lowest taxonomic rank possible for the EVE type is given (i.e. Family).
+2. We endeavoured to group sets of orthologous EVEs via shared numeric IDs. However, the orthologous relationships of some EVE loci in our set may not have been recognised. Similarly, we may have grouped some EVEs as orthologous copies that are in fact distinct, paralogous loci.
+3. In providing
+4. Although the naming convention used here was originally developed for ERVs, we have not yet applied it to ERV loci recovered via DIGS. Given the vast number of ERV loci present in vertebrate genomes, this will inevitably pose more significant challenges and require a longer-term effort compared to non-retroviral EVEs.
+
 
 ### Glossary of EVE Types:
 
