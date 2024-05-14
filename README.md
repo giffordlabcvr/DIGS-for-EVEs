@@ -19,8 +19,9 @@ Our aim is to provide researchers with comprehensive resources for studying EVEs
 
 ## Standardised Nomenclature for EVE loci
 
-In DIGS-for-EVEs we have applied a systematic approach to naming Endogenous Viral Elements (EVEs), following a convention [developed for endogenous retroviruses](https://doi.org/10.1186/s12977-018-0442-1). Each element is assigned a unique identifier (ID) constructed from a defined set of components, separated by hyphens: e.g. **EBLG-Carbovirus.2-Boreoeutheria**
+In DIGS-for-EVEs we have applied a systematic approach to naming of non-retroviral EVEs, following a [previously developed](https://doi.org/10.1186/s12977-018-0442-1) convention. Each element is assigned a unique identifier (ID) constructed from a defined set of components, separated by hyphens:
 
+e.g. **EBLG-Carbovirus.2-Boreoeutheria**
 
 - The **first component** identifies the type of EVE. (Please refer below for a glossary of EVE types defined thus far.)
 
@@ -31,6 +32,8 @@ In DIGS-for-EVEs we have applied a systematic approach to naming Endogenous Vira
 - The **third component** of the ID specifies the set of host species in which the ortholog occurs.
 
 This systematic naming approach facilitates clear identification and comparison of EVEs across different species and contexts.
+
+**Please note**: although this naming convention was originally developed for ERVs, we have not yet applied it to ERV loci recovered via DIGS. Given the vast number of ERV loci present in vertebrate genomes, this will inevitably pose more significant challenges and require a longer-term effort compared to non-retroviral EVEs.
 
 ### Glossary of EVE Types:
 
