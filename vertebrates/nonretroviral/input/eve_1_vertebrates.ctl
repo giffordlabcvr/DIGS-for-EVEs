@@ -7,20 +7,20 @@ ENDBLOCK;
 
 BEGIN SCREENSETS;
 
-    # Uncomment a probe set and a reference set to use
+    # Uncomment lines to select a probe set and reference sequence library for use
     
-	# Main probe sets
+	# Probe sets
 	#query_aa_fasta=probes/DNAss-vertebrates.DIGS.faa;
 	#query_aa_fasta=probes/DNArt-vertebrates.DIGS.faa;
 	#query_aa_fasta=probes/RNAds-vertebrates.DIGS.faa;
 	#query_aa_fasta=probes/RNAss+ve-vertebrates.DIGS.faa;
 	#query_aa_fasta=probes/RNAss-ve-vertebrates.DIGS.faa;
-		
+    
+    # Reference sequence libraries
 	#reference_aa_fasta=/home2/rg128p/DIGS/projects/eve/ncbi_virus+te+nonviral.faa;
 	#reference_aa_fasta=/home2/rg128p/DIGS/projects/eve/ncbi_virus+te+nonviral+eves.faa;
     
     # Parameters for this screen	
-	output_path=./tmp/;
 	bitscore_min_tblastn=60;
 	seq_length_minimum=40;
 	defragment_range=1000;
