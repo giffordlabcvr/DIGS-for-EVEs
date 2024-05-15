@@ -32,7 +32,7 @@ e.g. **EBLG-Carbovirus.2-Boreoeutheria**
 
 - **The third component** of the ID specifies the host species or species group in which the EVE occurs (magnorder Boreoeutheria). For EVEs only known to occur in a single species, the Latin binomial species name is given. Where EVEs are shared across multiple species, we provide a taxonomic group name to capture that range of species. 
 
-This systematic naming approach facilitates clear identification and comparison of EVEs across different species and contexts.
+This systematic naming approach facilitates clear identification and comparison of EVEs across different species and research contexts.
 
 **Please note the following**: 
 
