@@ -6,7 +6,7 @@ ENDBLOCK;
 BEGIN SCREENSETS;
 	query_aa_fasta=/home2/rg128p/DIGS/projects/erv/fasta/panvertebrate/RV-RT-probes.fa;
 	reference_aa_fasta=/home2/rg128p/DIGS/projects/erv/fasta/panvertebrate/RV-RT-references;
-    output_path=./tmp/;
+	output_path=./tmp/;
 	bitscore_min_tblastn=60;
 	seq_length_minimum=50;
 	defragment_range=1000;

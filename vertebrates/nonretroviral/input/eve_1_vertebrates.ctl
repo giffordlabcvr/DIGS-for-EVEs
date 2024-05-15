@@ -19,7 +19,9 @@ BEGIN SCREENSETS;
     # Reference sequence libraries
 	#reference_aa_fasta=/home2/rg128p/DIGS/projects/eve/ncbi_virus+te+nonviral.faa;
 	#reference_aa_fasta=/home2/rg128p/DIGS/projects/eve/ncbi_virus+te+nonviral+eves.faa;
-    
+
+	output_path=./tmp/;
+	    
     # Parameters for this screen	
 	bitscore_min_tblastn=60;
 	seq_length_minimum=40;
