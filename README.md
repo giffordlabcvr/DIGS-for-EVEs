@@ -16,6 +16,7 @@ DIGS was performed using the DIGS tool, an open software framework available [he
 
 2. **Output Data**: 
     - Exported tables from the screening databases
+    - Summary statistics for each set of screening results
 
 ## Standardised Nomenclature for EVE loci
 
