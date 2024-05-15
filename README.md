@@ -89,6 +89,11 @@ Investigations of  data generated in this project have been reported in the foll
 7. Pénzes, J.J., et al. (2018). Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses. *Virus Evol*, 4(2): p. vey026.
 
 8. Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. *J Gen Virol*, 98(2): p. 225-229.
+   
+9. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz, Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L. Retrovirology, 2018. 15(1): p. 34.
+    
+10. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz, Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. Elife, 2017. 6.
+
 
 
 ## Contributing
