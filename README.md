@@ -93,7 +93,7 @@ Investigations of  data generated in this project have been reported in the foll
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in contributing to DIGS-for-EVEs, please review our [Contribution Guidelines](./md/CONTRIBUTING.md).
+We welcome contributions from the EVE research community! If you're interested in contributing to DIGS-for-EVEs, please review our [Contribution Guidelines](./md/CONTRIBUTING.md).
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./md/code_of_conduct.md) 
 
