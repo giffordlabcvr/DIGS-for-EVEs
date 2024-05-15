@@ -84,15 +84,15 @@ Investigations of  data generated in this project have been reported in the foll
 
 5. Dennis, T.P.W., et al. (2019). The evolution, distribution and diversity of endogenous circoviral elements in vertebrate genomes. *Virus Res*, 262: p. 15-23.
 
-6. Dennis, T.P.W., et al. (2018), Insights into Circovirus host range from the genomic fossil record. J Virol, 92(16).
+6. Dennis, T.P.W., et al. (2018). Insights into Circovirus host range from the genomic fossil record. J Virol, 92(16).
 
 7. Pénzes, J.J., et al. (2018). Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses. *Virus Evol*, 4(2): p. vey026.
 
-8. Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. *J Gen Virol*, 98(2): p. 225-229.
+8. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2018). Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L. Retrovirology, 15(1): p. 34.
    
-9. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz, Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L. Retrovirology, 2018. 15(1): p. 34.
+9. Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. *J Gen Virol*, 98(2): p. 225-229.
     
-10. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz, Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. Elife, 2017. 6.
+10. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2017) Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. Elife, 6.
 
 
 
