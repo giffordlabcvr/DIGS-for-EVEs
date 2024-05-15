@@ -49,7 +49,7 @@ This systematic naming approach facilitates clear identification and comparison 
 - **ECV**: Endogenous Circovirus-like Element
 - **EPV**: Endogenous Parvovirus-like Element
 - **ERV**: Endogenous Retrovirus
-- **EHBV**: Endogenous Hepatitis B Virus
+- **eHBV**: Endogenous Hepatitis B Virus
 - **ciHV**: Chromosomally-Integrated Herpesvirus
 
 #### RNA viruses
