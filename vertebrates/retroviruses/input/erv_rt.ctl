@@ -1,5 +1,5 @@
 Begin SCREENDB;
-	db_name=rg_erv_rt_all;
+	db_name=rg_erv_rt;
 	mysql_server=localhost;
 ENDBLOCK;
 

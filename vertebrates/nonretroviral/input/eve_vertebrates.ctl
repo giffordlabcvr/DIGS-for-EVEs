@@ -1,6 +1,6 @@
 Begin SCREENDB;
 
-	db_name=rg_eve_1_vertebrates;
+	db_name=rg_eve_vertebrates;
 	mysql_server=localhost;
 	
 ENDBLOCK;
