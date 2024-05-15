@@ -36,7 +36,7 @@ This systematic naming approach facilitates clear identification and comparison 
 
 **Please note the following**: 
 
-1. EVEs were assigned to virus taxonomic groups as accurately as possible based on phylogenetic/genomic analysis. For EVEs that could not be confidently classified to a subgroup, the lowest taxonomic rank possible for the EVE type is given (i.e. family).
+1. EVEs were assigned to virus taxonomic groups as accurately as possible based on phylogenetic/genomic analysis. For EVEs that could not be confidently assigned to a subgroup, the lowest taxonomic rank possible for the EVE type is given (i.e. family).
 2. We endeavoured to group sets of orthologous EVEs via shared numeric IDs. However, the orthologous relationships of some EVE loci in our set may not have been recognised. Similarly, we may have grouped some EVEs as orthologous copies that are in fact distinct, paralogous loci.
 3. Where EVEs occur in single species, the corresponding Latin binomial species name is provided. Where EVEs occur as orthologs in multiple species we provide the taxonomic name of the species group in which they occur. If the set of species corresponded to an unranked clade, we provide the name of the closest named group at a lower rank. The abbreviation 'UR' (unranked) is added to indicate there is no named clade that perfectly captures the range of species in which the EVE is found.
 4. Although the naming convention used here was originally developed for ERVs, we have not yet applied it to ERV loci recovered via DIGS. Given the vast number of ERV loci present in vertebrate genomes, this will inevitably pose more significant challenges and require a longer-term effort compared to non-retroviral EVEs.
