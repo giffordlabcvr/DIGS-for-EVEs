@@ -9,14 +9,14 @@ DIGS was performed using the DIGS tool, an open software framework available [he
 ## Contents
 
 1. **Input Files**:
-    - Probe sequences used for DIGS (polypetide FASTA)
-    - Reference sequence library used for DIGS (polypetide FASTA)
-    - Details of the WGS assemblies screened in this project (the assemblies themselves are not included due to their large file sizes)
-    - Control files used with the [DIGS tool](https://giffordlabcvr.github.io/DIGS-tool/)
+    - Virus polypeptide probe sequences used for DIGS (FASTA format).
+    - Reference protein sequence library used for DIGS (FASTA format).
+    - Details of the WGS assemblies screened in this project (the assemblies themselves are not included due to their large file sizes).
+    - Control files used with the [DIGS tool](https://giffordlabcvr.github.io/DIGS-tool/) to implement EVE screens in silco.
 
 2. **Output Data**: 
-    - Exported tables from the screening databases
-    - Summary statistics for each set of screening results
+    - Tables exported from screening databases (includes 'digs_results' table with nucleotide sequences of EVE loci).
+    - Summary statistics desribing screening results.
 
 ## Standardised Nomenclature for EVE loci
 
