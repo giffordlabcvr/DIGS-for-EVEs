@@ -51,7 +51,7 @@ DIGS-for-EVEs/
 - Virus polypeptide probe sequences used for screening (FASTA format).
 - Reference protein sequence library used  for classifying hits recovered by screening (FASTA format).
 - Details of the WGS assemblies screened in this project (assembly files are not included due to their large sizes).
-- Control file used with the [DIGS tool](https://giffordlabcvr.github.io/DIGS-tool/) to implement this screen.
+- Control file used with the [DIGS tool](https://giffordlabcvr.github.io/DIGS-tool/) to implement systematic in silico genome screening.
 
 ### `output/` Directory
   
