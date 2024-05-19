@@ -57,7 +57,7 @@ DIGS-for-EVEs/
 
 ### `output/` Directory
   
-- Tables exported from screening databases (includes 'digs_results' table with nucleotide sequences of EVE loci).
+- Tables exported from screening databases (includes `digs_results` table with nucleotide sequences of EVE loci).
 - Summary statistics desribing screening results.
 - A catalog of endogenous viral element loci identified within this host group.
 
