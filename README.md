@@ -26,7 +26,7 @@ DIGS-for-EVEs/
 ### Subdirectories
 
 - `eve/`  
-  Contains the versioned catalog of EVE loci.
+  Contains versioned catalogs of EVE loci.
 
   - `animals/`  
     Subdivision based on host species group.
