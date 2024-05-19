@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+	<head>
+
+		<meta charset="UTF-8">
+		<title>DIGS for EVEs</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="./html/assets/stylesheets/normalize.css" media="screen">
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="./html/assets/stylesheets/stylesheet-eve.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="./html/assets/stylesheets/github-light.css" media="screen">
+	
+	</head>
+  
+
+	<body>
+
+		<section class="page-header">
+		  <h3 class="project-name">DIGS for EVEs</h3>
+		  <h4 class="project-tagline">Database-integrated genome screening (DIGS) for endogenous viral elements (EVEs)</h4>
+		  <a href="https://giffordlabcvr.github.io/DIGS-tool/" class="btn">DIGS Home</a>
+		  <a target="_blank" href="http://glue-tools.cvr.gla.ac.uk" class="btn">GLUE Home</a>
+		  <a href="https://twitter.com/DIGS_for_EVEs" class="btn">Twitter feed</a>
+		  <!--<a href="./eve.txt" class="btn">EVE catalog</a>-->
+		</section>
+
+		<section class="main-content">
+
+
+			<h3>DIGS-for-EVEs</h3>
+			<p>Welcome to the DIGS-for-EVEs repository! This repository contains an organised catalog of endogenous viral element (EVE) sequences recovered from published genome sequence data via database-integrated genome screening (DIGS). DIGS is an approach for systematically screening whole genome sequence (WGS) data in silico.</p>
+			<p>WGS assemblies screened in this project were obtained from the National Center for Biotechnology Information's <a href="https://www.ncbi.nlm.nih.gov/genome/">genome</a> resource.</p>
+			<p>DIGS was performed using the DIGS tool, an open software framework available <a href="https://giffordlabcvr.github.io/DIGS-tool/">here</a>.</p>
+
+			<h4>Directory Structure</h4>
+			<p>The DIGS-for-EVEs repository is organized to categorize EVE loci based on host species groups, virus subdivisions, and catalog version, as follows:</p>
+			<pre>
+		DIGS-for-EVEs/
+		└── eve/
+			└── animals/
+				└── vertebrates/
+					└── nonretroviral/
+						└── version-1.0/
+							├── input/
+							└── output/
+			</pre>
+
+			<h3>Subdirectories</h3>
+			<ul>
+				<li><code>eve/</code><br>
+					Contains the versioned catalog of EVE loci.
+					<ul>
+						<li><code>animals/</code><br>
+							Subdivision based on host species group.
+							<ul>
+								<li><code>vertebrates/</code><br>
+									Further subdivision of the host group.
+									<ul>
+										<li><code>nonretroviral/</code><br>
+											Subdivision by virus group, non-retroviral viruses in this case.
+											<ul>
+												<li><code>version-1.0/</code><br>
+													Version of the catalog for this host & virus subdivision.
+													<ul>
+														<li><code>input/</code><br>
+															Contains files used as input for the in silico genome screening process used to generate the catalog.
+														</li>
+														<li><code>output/</code><br>
+															Contains the results and summary of the genome screen.
+														</li>
+													</ul>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+
+			<h4>Detailed Contents</h4>
+
+			<h3><code>input/</code> Directory</h3>
+			<ul>
+				<li>Virus polypeptide probe sequences used for screening (FASTA format).</li>
+				<li>Reference protein sequence library used for classifying hits recovered by screening (FASTA format).</li>
+				<li>Details of the WGS assemblies screened in this project (assembly files are not included due to their large sizes).</li>
+				<li>Control file used with the <a href="https://giffordlabcvr.github.io/DIGS-tool/">DIGS tool</a> to implement systematic in silico genome screening.</li>
+			</ul>
+
+			<h3><code>output/</code> Directory</h3>
+			<ul>
+				<li>Tables exported from screening databases (includes 'digs_results' table with nucleotide sequences of EVE loci).</li>
+				<li>Summary statistics describing screening results.</li>
+				<li>A catalog of endogenous viral element loci identified within this host group.</li>
+			</ul>
+
+			<h4>Standardised Nomenclature for EVE loci</h4>
+			<p>In DIGS-for-EVEs we have applied a systematic approach to naming of non-retroviral EVEs, following a <a href="https://doi.org/10.1186/s12977-018-0442-1">previously developed</a> convention. Each element is assigned a unique identifier (ID) constructed from three components, separated by hyphens:</p>
+			<p>e.g. <strong>EBLG-Carbovirus.2-Boreoeutheria</strong></p>
+			<ul>
+				<li><strong>The first component</strong> identifies the type of EVE (EBLG). Please see below for a glossary of EVE types.</li>
+				<li><strong>The second component</strong>, a combination of two distinct subcomponents separated by a period, defines:
+					<ul>
+						<li>(i) The name of the taxonomic group from which the EVE derives (Carbovirus).</li>
+						<li>(ii) A numeric ID (2) that uniquely identifies the insertion within the EVE category and taxonomic group to which it has been assigned. Orthologous copies in different species share the same number.</li>
+					</ul>
+				</li>
+				<li><strong>The third component</strong> of the ID specifies the host species or species group in which the EVE occurs (magnorder Boreoeutheria). For EVEs only known to occur in a single species, the Latin binomial species name is given. Where EVEs are shared across multiple species, we provide a taxonomic group name to capture that range of species.</li>
+			</ul>
+			<p>This systematic naming approach facilitates clear identification and comparison of EVEs across different species and research contexts.</p>
+
+			<p><strong>Please note the following:</strong></p>
+			<ol>
+				<li>EVEs were assigned to virus taxonomic groups as accurately as possible based on phylogenetic/genomic analysis. For EVEs that could not be confidently assigned to a subgroup, the lowest taxonomic rank possible for the EVE type is given (i.e. family).</li>
+				<li>We grouped sets of orthologous EVEs using shared numeric IDs. However, some orthologous relationships might have been missed, and some EVEs may have been incorrectly grouped as orthologs when they are actually distinct, paralogous loci. The 'digs_results' table includes information on how well each locus matched its assigned ortholog group via BLAST, providing a way to assess the confidence in these orthology designations.</li>
+				<li>When EVEs occur in a single species, the corresponding Latin binomial species name is provided. When EVEs occur as orthologs in multiple species, we provide the taxonomic name of the species group. If the species set corresponds to an unranked clade, we use the name of the closest named group at a lower rank and add the abbreviation 'UR' (unranked) to indicate that no named clade perfectly captures the range of species in which the EVE is found.</li>
+				<li>Although the naming convention used here was originally developed for ERVs, we have not yet applied it to ERV loci recovered via DIGS. Given the vast number of ERV loci present in vertebrate genomes, this will inevitably pose more significant challenges and require a longer-term effort compared to non-retroviral EVEs.</li>
+			</ol>
+
+			<h3>Glossary of EVE Types:</h3>
+
+			<h4>DNA viruses & Retroviruses</h4>
+			<ul>
+				<li><strong>ECV</strong>: Endogenous Circovirus-like Element</li>
+				<li><strong>EPV</strong>: Endogenous Parvovirus-like Element</li>
+				<li><strong>ERV</strong>: Endogenous Retrovirus</li>
+				<li><strong>eHBV</strong>: Endogenous Hepatitis B Virus</li>
+				<li><strong>ciHV</strong>: Chromosomally-Integrated Herpesvirus</li>
+			</ul>
+
+			<h4>RNA viruses</h4>
+			<ul>
+				<li><strong>EBLG</strong>: Endogenous Borna-like Glycoprotein</li>
+				<li><strong>EBLL</strong>: Endogenous Borna-like L Protein</li>
+				<li><strong>EBLN</strong>: Endogenous Borna-like Nucleoprotein</li>
+				<li><strong>EBLM</strong>: Endogenous Borna-like Matrix protein</li>
+				<li><strong>EFLH</strong>: Endogenous Filo-like VP30</li>
+				<li><strong>EFLN</strong>: Endogenous Filo-like Nucleoprotein</li>
+				<li><strong>EFLL</strong>: Endogenous Filo-like L Protein</li>
+				<li><strong>EFLP</strong>: Endogenous Filo-like Phosphoprotein</li>
+				<li><strong>ECLL</strong>: Endogenous Chu-like L Protein</li>
+				<li><strong>ECLN</strong>: Endogenous Chu-like Nucleoprotein</li>
+				<li><strong>ECLM</strong>: Endogenous Chu-like Matrix protein</li>
+				<li><strong>EPLL</strong>: Endogenous Paramxyo-like L Protein</li>
+				<li><strong>EPLN</strong>: Endogenous Paramxyo-like Nucleoprotein</li>
+				<li><strong>EPLH</strong>: Endogenous Paramxyo-like Hemagglutinin (HA)-Neuraminidase Protein</li>
+				<li><strong>EFL</strong>: Endogenous Flavivirus-like Element</li>
+			</ul>
+
+			<h4>References</h4>
+			<p>Investigations of data generated in this project have been reported in the following open access publications:</p>
+			<ol>
+				<li>Blanco-Melo, D., et al. (2024). A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus ‘fossil record’. <em>Genome Biology</em>, 25, Article number: 120</li>
+				<li>Campbell, M.A., et al. (2022). Comparative analysis reveals the long-term coevolutionary history of parvoviruses and vertebrates. <em>PLoS Biol</em>, 20(11): p. e3001867.</li>
+				<li>Bamford, C.G.G., et al. (2022). Comparative analysis of genome-encoded viral sequences reveals the evolutionary history of flavivirids (family <em>Flaviviridae</em>). <em>Virus Evol</em>, 8(2): p. veac085.</li>
+				<li>Lytras, S., G. Arriagada, and R.J. Gifford. (2021). Ancient evolution of hepadnaviral paleoviruses and their impact on host genomes. <em>Virus Evol</em>, 7(1): p. veab012.</li>
+				<li>Dennis, T.P.W., et al. (2019). The evolution, distribution and diversity of endogenous circoviral elements in vertebrate genomes. <em>Virus Res</em>, 262: p. 15-23.</li>
+				<li>Dennis, T.P.W., et al. (2018). Insights into Circovirus host range from the genomic fossil record. <em>J Virol</em>, 92(16).</li>
+				<li>Pénzes, J.J., et al. (2018). Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses. <em>Virus Evol</em>, 4(2): p. vey026.</li>
+				<li>Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2018). Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L. <em>Retrovirology</em>, 15(1): p. 34.</li>
+				<li>Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. <em>J Gen Virol</em>, 98(2): p. 225-229.</li>
+				<li>Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2017) Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. <em>Elife</em>, 6.</li>
+			</ol>
+
+			<h4>Contributing</h4>
+			<p>We welcome contributions from the EVE research community! If you're interested in contributing to DIGS-for-EVEs, please review our <a href="./md/CONTRIBUTING.md">Contribution Guidelines</a>.</p>
+			<p><a href="./md/code_of_conduct.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant"></a></p>
+
+			<h4>License</h4>
+			<p>The project is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">GNU Affero General Public License v. 3.0</a></p>
+
+			<h4>Contact</h4>
+			<p>For questions, issues, or feedback, please open an issue on the <a href="https://github.com/giffordlabcvr/DIGS-for-EVEs/issues">GitHub repository</a>.</p>
+
+
+			<footer class="site-footer">
+				<span class="site-footer-owner"><a href="https://github.com/giffordlabcvr/DIGS-tool">DIGS for EVEs</a> is maintained by <a href="https://github.com/giffordlabcvr">giffordlabcvr</a>.</span>
+
+				<span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+			</footer>
+
+		</section>
+		<section class="page-header">
+
+	  </body>
+  
+</html>
