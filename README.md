@@ -1,14 +1,14 @@
 # DIGS-for-EVEs
 
-Welcome to the DIGS-for-EVEs repository! This repository contains an organised catalog of endogenous viral element (EVE) sequences recovered via database-integrated genome screening (DIGS). 
+Welcome to the DIGS-for-EVEs repository! This repository contains an organised catalog of endogenous viral element (EVE) sequences. EVE sequences were recovered from published genome sequence data via database-integrated genome screening (DIGS). DIGS is an approach for systematically screening whole genome sequence (WGS) data in silico. 
 
-Whole genome sequence (WGS) assemblies screened in this project were obtained from the National Center for Biotechnology Information's [genome](https://www.ncbi.nlm.nih.gov/genome/) resource.
+WGS assemblies screened in this project were obtained from the National Center for Biotechnology Information's [genome](https://www.ncbi.nlm.nih.gov/genome/) resource.
 
 DIGS was performed using the DIGS tool, an open software framework available [here](https://giffordlabcvr.github.io/DIGS-tool/). 
 
 ## Directory Structure
 
-The repository is organized to systematically categorize EVE loci based on host species groups, virus subdivisions, and catalog version, as follows: 
+The DIGS-for-EVEs repository is organized to categorize EVE loci based on host species groups, virus subdivisions, and catalog version, as follows: 
 
 ```
 DIGS-for-EVEs/
