@@ -41,7 +41,7 @@ DIGS-for-EVEs/
           Version of the catalog for this host & virus subdivision.
 
           - `input/`  
-            Contains files used as input for the in silico genome screening process used to generate the catalog.
+            Contains files used as input for genome screening.
             
           - `output/`  
             Contains the results and summary of the genome screen.
