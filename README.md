@@ -36,7 +36,7 @@ DIGS-for-EVEs/
         Subdivision by virus group, non-retroviral viruses in this case.
 
         - `version-1.0/`  
-          Version of the catalog.
+          Version of the catalog for this host/virus subdivision.
 
           - `input/`  
             Contains files used as input for the in silico genome screening process used to generate the catalog.
