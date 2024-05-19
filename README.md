@@ -6,17 +6,59 @@ Whole genome sequence (WGS) assemblies screened in this project were obtained fr
 
 DIGS was performed using the DIGS tool, an open software framework available [here](https://giffordlabcvr.github.io/DIGS-tool/). 
 
-## Contents
+## Directory Structure
 
-1. **Input Files**:
-    - Virus polypeptide probe sequences used for DIGS (FASTA format).
-    - Reference protein sequence library used for DIGS (FASTA format).
-    - Details of the WGS assemblies screened in this project (the assemblies themselves are not included due to their large file sizes).
-    - Control files used with the [DIGS tool](https://giffordlabcvr.github.io/DIGS-tool/) to implement EVE screens in silco.
+The repository is organized to systematically categorize EVE loci based on host species groups, virus subdivisions, and catalog version, as follows: 
 
-2. **Output Data**: 
-    - Tables exported from screening databases (includes 'digs_results' table with nucleotide sequences of EVE loci).
-    - Summary statistics desribing screening results.
+```
+DIGS-for-EVEs/
+└── eve/
+    └── animals/
+        └── vertebrates/
+            └── nonretroviral/
+                └── version-1.0/
+                    ├── input/
+                    └── output/
+```
+
+### Subdirectories
+
+- `eve/`  
+  Contains the versioned catalog of EVE loci.
+
+  - `animals/`  
+    Subdivision based on host species group.
+  
+    - `vertebrates/`  
+      Further subdivision of the host group.
+
+      - `nonretroviral/`  
+        Subdivision by virus group, non-retroviral viruses in this case.
+
+        - `version-1.0/`  
+          Version of the catalog.
+
+          - `input/`  
+            Contains files used as input for the genome screen used to generate the catalog.
+            
+          - `output/`  
+            Contains the results and summary of the genome screen.
+            
+## Detailed Contents
+
+### `input/` Directory
+
+- Virus polypeptide probe sequences used for screening (FASTA format).
+- Reference protein sequence library used  for classifying hits recovered by screening (FASTA format).
+- Details of the WGS assemblies screened in this project (assembly files are not included due to their large file sizes).
+- Control file used with the [DIGS tool](https://giffordlabcvr.github.io/DIGS-tool/) to implement this screen.
+
+### `output/` Directory
+  
+- Tables exported from screening databases (includes 'digs_results' table with nucleotide sequences of EVE loci).
+- Summary statistics desribing screening results.
+- A catalog of endogenous viral element loci identified within this host group.
+
 
 ## Standardised Nomenclature for EVE loci
 
