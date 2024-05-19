@@ -39,7 +39,7 @@ DIGS-for-EVEs/
           Version of the catalog.
 
           - `input/`  
-            Contains files used as input for the genome screen used to generate the catalog.
+            Contains files used as input for the in silico genome screening process used to generate the catalog.
             
           - `output/`  
             Contains the results and summary of the genome screen.
