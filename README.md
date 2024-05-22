@@ -122,7 +122,7 @@ Investigations of data generated in this project have been reported in the follo
 
 Blanco-Melo, D., et al. (2024). **A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus fossil record.** *Genome Biology*, 25, Article number: 120.
 
-Bravo A, et al. (2023). **Antiviral Activity of an Endogenous Parvoviral Element.** *Viruses*, 2023 Jun 23;15(7):1420.
+Bravo A, et al. (2023). **Antiviral ectivity of an endogenous parvoviral element.** *Viruses*, 2023 Jun 23;15(7):1420.
 
 Campbell, M.A., et al. (2022). **Comparative analysis reveals the long-term coevolutionary history of parvoviruses and vertebrates.** *PLoS Biol*, 20(11): p. e3001867.
 
@@ -134,13 +134,13 @@ Hildebrandt, E., et al. (2020). **Evolution of dependoparvoviruses across geolog
 
 Dennis, T.P.W., et al. (2019). **The evolution, distribution and diversity of endogenous circoviral elements in vertebrate genomes.** *Virus Res*, 262: p. 15-23.
 
-Callaway HM, et al. (2019). **Examination and Reconstruction of Three Ancient Endogenous Parvovirus Capsid Protein Gene Remnants Found in Rodent Genomes.** *J Virol* Mar 5;93(6).
+Callaway HM, et al. (2019). **Examination and reconstruction of three ancient endogenous parvovirus capsid protein gene remnants found in rodent genomes.** *J Virol* Mar 5;93(6).
 
 Pénzes, J.J., et al. (2019). **An ancient lineage of highly divergent parvoviruses infects both vertebrate and invertebrate hosts.** *Viruses*, 2019. 11(6).
 
-Valencia-Herrera, I., et al. (2019). **Molecular Properties and Evolutionary Origins of a Parvovirus-Derived Myosin Fusion Gene in Guinea Pigs.** *J Virol* 93(17).
+Valencia-Herrera, I., et al. (2019). **Molecular properties and evolutionary origins of a parvovirus-derived myosin fusion gene in Guinea pigs.** *J Virol* 93(17).
 
-Dennis, T.P.W., et al. (2018). **Insights into Circovirus host range from the genomic fossil record.** *J Virol*, 92(16).
+Dennis, T.P.W., et al. (2018). **Insights into circovirus host range from the genomic fossil record.** *J Virol*, 92(16).
 
 Pénzes, J.J., et al. (2018). **Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses.** *Virus Evol*, 4(2): p. vey026.
 
