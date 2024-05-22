@@ -120,7 +120,7 @@ This systematic naming approach facilitates clear identification and comparison 
 
 Investigations of data generated in this project have been reported in the following open access publications:
 
-Blanco-Melo, D., et al. (2024). **A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus ‘fossil record’.** *Genome Biology*, 25, Article number: 120.
+Blanco-Melo, D., et al. (2024). **A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus fossil record.** *Genome Biology*, 25, Article number: 120.
 
 Bravo A, et al. (2023). **Antiviral Activity of an Endogenous Parvoviral Element.** *Viruses*, 2023 Jun 23;15(7):1420.
 
