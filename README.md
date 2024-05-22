@@ -144,7 +144,7 @@ Investigations of  data generated in this project have been reported in the foll
     
 12. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2017) Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. Elife, 6.
 
-13.  Arriagada, G., and Robert J Gifford (2014) Parvovirus-derived endogenous viral elements in two South American rodent genomes. *J Virol* Oct;88(20):12158-62
+13.  Arriagada, G., and R.J. Gifford (2014) Parvovirus-derived endogenous viral elements in two South American rodent genomes. *J Virol* Oct;88(20):12158-62
 
 
 ## Contributing
