@@ -64,7 +64,9 @@ DIGS-for-EVEs/
 
 ## Standardised Nomenclature for EVE loci
 
-In DIGS-for-EVEs we have applied a systematic approach to naming of non-retroviral EVEs, following a [previously developed](https://doi.org/10.1186/s12977-018-0442-1) convention. Each element is assigned a unique identifier (ID) constructed from three components, separated by hyphens, as shown in the following example:
+In DIGS-for-EVEs we have applied a systematic approach to naming of non-retroviral EVEs, following [a convention developed for endogenous retroviruses](https://doi.org/10.1186/s12977-018-0442-1).
+
+Each element is assigned a unique identifier (ID) constructed from three components, separated by hyphens, as shown in the following example:
 
 **`EBLG-Carbovirus.2-Boreoeutheria`**
 
