@@ -118,42 +118,41 @@ This systematic naming approach facilitates clear identification and comparison 
 
 ## References
 
-Investigations of  data generated in this project have been reported in the following open access publications:
+Investigations of data generated in this project have been reported in the following open access publications:
 
-Blanco-Melo, D., et al. (2024). A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus ‘fossil record’. *Genome Biology*, 25, Article number: 120.
+Blanco-Melo, D., et al. (2024). **A novel approach to exploring the dark genome and its application to mapping of the vertebrate virus ‘fossil record’.** *Genome Biology*, 25, Article number: 120.
 
-Bravo A, et al. (2023). Antiviral Activity of an Endogenous Parvoviral Element. *Viruses*, 2023 Jun 23;15(7):1420.
+Bravo A, et al. (2023). **Antiviral Activity of an Endogenous Parvoviral Element.** *Viruses*, 2023 Jun 23;15(7):1420.
 
-Campbell, M.A., et al. (2022). Comparative analysis reveals the long-term coevolutionary history of parvoviruses and vertebrates. *PLoS Biol*, 20(11): p. e3001867.
+Campbell, M.A., et al. (2022). **Comparative analysis reveals the long-term coevolutionary history of parvoviruses and vertebrates.** *PLoS Biol*, 20(11): p. e3001867.
 
-Bamford, C.G.G., et al. (2022). Comparative analysis of genome-encoded viral sequences reveals the evolutionary history of flavivirids (family *Flaviviridae*). *Virus Evol*, 8(2): p. veac085.
+Bamford, C.G.G., et al. (2022). **Comparative analysis of genome-encoded viral sequences reveals the evolutionary history of flavivirids (family *Flaviviridae*).** *Virus Evol*, 8(2): p. veac085.
 
-Lytras, S., G. Arriagada, and R.J. Gifford. (2021). Ancient evolution of hepadnaviral paleoviruses and their impact on host genomes. *Virus Evol*, 7(1): p. veab012.
+Lytras, S., G. Arriagada, and R.J. Gifford. (2021). **Ancient evolution of hepadnaviral paleoviruses and their impact on host genomes.** *Virus Evol*, 7(1): p. veab012.
 
-Hildebrandt, E., et al. (2020), Evolution of dependoparvoviruses across geological timescales-implications for design of AAV-based gene therapy vectors. *Virus Evol* 6(2): p. veaa043.
+Hildebrandt, E., et al. (2020). **Evolution of dependoparvoviruses across geological timescales-implications for design of AAV-based gene therapy vectors.** *Virus Evol* 6(2): p. veaa043.
 
-Dennis, T.P.W., et al. (2019). The evolution, distribution and diversity of endogenous circoviral elements in vertebrate genomes. *Virus Res*, 262: p. 15-23.
+Dennis, T.P.W., et al. (2019). **The evolution, distribution and diversity of endogenous circoviral elements in vertebrate genomes.** *Virus Res*, 262: p. 15-23.
 
-Callaway HM, et al. (2019). Examination and Reconstruction of Three Ancient Endogenous Parvovirus Capsid Protein Gene Remnants Found in Rodent Genomes. *J Virol* Mar 5;93(6).
+Callaway HM, et al. (2019). **Examination and Reconstruction of Three Ancient Endogenous Parvovirus Capsid Protein Gene Remnants Found in Rodent Genomes.** *J Virol* Mar 5;93(6).
 
-Pénzes, J.J., et al. (2019), An ancient lineage of highly divergent parvoviruses infects both vertebrate and invertebrate hosts. *Viruses*, 2019. 11(6).
+Pénzes, J.J., et al. (2019). **An ancient lineage of highly divergent parvoviruses infects both vertebrate and invertebrate hosts.** *Viruses*, 2019. 11(6).
 
-Valencia-Herrera, I., et al. (2019), Molecular Properties and Evolutionary Origins of a Parvovirus-Derived Myosin Fusion Gene in Guinea Pigs. *J Virol* 93(17).
+Valencia-Herrera, I., et al. (2019). **Molecular Properties and Evolutionary Origins of a Parvovirus-Derived Myosin Fusion Gene in Guinea Pigs.** *J Virol* 93(17).
 
-Dennis, T.P.W., et al. (2018). Insights into Circovirus host range from the genomic fossil record. *J Virol*, 92(16).
+Dennis, T.P.W., et al. (2018). **Insights into Circovirus host range from the genomic fossil record.** *J Virol*, 92(16).
 
-Pénzes, J.J., et al. (2018). Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses. *Virus Evol*, 4(2): p. vey026.
+Pénzes, J.J., et al. (2018). **Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses.** *Virus Evol*, 4(2): p. vey026.
 
-Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2018). Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L. *Retrovirology*, 15(1): p. 34.
-   
-Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. *J Gen Virol*, 98(2): p. 225-229.
-    
-Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2017) Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. *Elife*, 6.
+Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2018). **Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L.** *Retrovirology*, 15(1): p. 34.
 
-Ng, M., et al. (2015), Filovirus receptor NPC1 contributes to species-specific patterns of ebolavirus susceptibility in bats. *Elife*, 4.
+Souza, W.M., et al. (2017). **Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution.** *J Gen Virol*, 98(2): p. 225-229.
 
-Arriagada, G., and R.J. Gifford (2014) Parvovirus-derived endogenous viral elements in two South American rodent genomes. *J Virol* Oct;88(20):12158-62
+Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2017). **Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors.** *Elife*, 6.
 
+Ng, M., et al. (2015). **Filovirus receptor NPC1 contributes to species-specific patterns of ebolavirus susceptibility in bats.** *Elife*, 4.
+
+Arriagada, G., and R.J. Gifford (2014). **Parvovirus-derived endogenous viral elements in two South American rodent genomes.** *J Virol* Oct;88(20):12158-62.
 
 ## Contributing
 
