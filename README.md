@@ -134,15 +134,15 @@ Investigations of  data generated in this project have been reported in the foll
 
 7. Callaway HM, et al. (2019). Examination and Reconstruction of Three Ancient Endogenous Parvovirus Capsid Protein Gene Remnants Found in Rodent Genomes. *J Virol* Mar 5;93(6).
 
-8. Dennis, T.P.W., et al. (2018). Insights into Circovirus host range from the genomic fossil record. J Virol, 92(16).
+8. Dennis, T.P.W., et al. (2018). Insights into Circovirus host range from the genomic fossil record. *J Virol*, 92(16).
 
 9. Pénzes, J.J., et al. (2018). Endogenous amdoparvovirus-related elements reveal insights into the biology and evolution of vertebrate parvoviruses. *Virus Evol*, 4(2): p. vey026.
 
-10. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2018). Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L. Retrovirology, 15(1): p. 34.
+10. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2018). Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L. *Retrovirology*, 15(1): p. 34.
    
 11. Souza, W.M., et al. (2017). Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. *J Gen Virol*, 98(2): p. 225-229.
     
-12. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2017) Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. Elife, 6.
+12. Blanco-Melo, D., R.J. Gifford, and P.D. Bieniasz (2017) Co-option of an endogenous retrovirus envelope for host defense in hominid ancestors. *Elife*, 6.
 
 13.  Arriagada, G., and R.J. Gifford (2014) Parvovirus-derived endogenous viral elements in two South American rodent genomes. *J Virol* Oct;88(20):12158-62
 
