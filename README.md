@@ -89,34 +89,9 @@ This systematic naming approach facilitates clear identification and comparison 
 3. When EVEs occur in a single species, the corresponding Latin binomial species name is provided. When EVEs occur as orthologs in multiple species, we provide the taxonomic name of the species group. If the species set corresponds to an unranked clade, we use the name of the closest named group at a lower rank and add the abbreviation 'UR' (unranked) to indicate that no named clade perfectly captures the range of species in which the EVE is found.
 4. Although the naming convention used here was originally developed for ERVs, we have not yet applied it to ERV loci recovered via DIGS. Given the vast number of ERV loci present in vertebrate genomes, this will inevitably pose more significant challenges and require a longer-term effort compared to non-retroviral EVEs.
 
+## Data Sources
 
-### Glossary of EVE Types:
-
-#### DNA viruses & Retroviruses
-
-- **ECV**: Endogenous Circovirus-like Element
-- **EPV**: Endogenous Parvovirus-like Element
-- **ERV**: Endogenous Retrovirus
-- **eHBV**: Endogenous Hepatitis B Virus
-- **ciHV**: Chromosomally-Integrated Herpesvirus
-
-#### RNA viruses
-
-- **EBLG**: Endogenous Borna-like Glycoprotein
-- **EBLL**: Endogenous Borna-like L Protein
-- **EBLN**: Endogenous Borna-like Nucleoprotein
-- **EBLM**: Endogenous Borna-like Matrix protein
-- **EFLH**: Endogenous Filo-like VP30
-- **EFLN**: Endogenous Filo-like Nucleoprotein
-- **EFLL**: Endogenous Filo-like L Protein
-- **EFLP**: Endogenous Filo-like Phosphoprotein
-- **ECLL**: Endogenous Chu-like L Protein
-- **ECLN**: Endogenous Chu-like Nucleoprotein
-- **ECLM**: Endogenous Chu-like Matrix protein
-- **EPLL**: Endogenous Paramxyo-like L Protein
-- **EPLN**: Endogenous Paramxyo-like Nucleoprotein
-- **EPLH**: Endogenous Paramxyo-like Hemagglutinin (HA)-Neuraminidase Protein
-- **EFL**: Endogenous Flavivirus-like Element
+Data included in this project were obtained via in silico mining of published whole genome assemblies available via **[NCBI Genomes](https://www.ncbi.nlm.nih.gov/home/genomes/)**.
 
 ## Contributing
 
