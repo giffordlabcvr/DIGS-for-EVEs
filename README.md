@@ -4,7 +4,7 @@
 
 Welcome to the DIGS-for-EVEs repository - collating the **viral fossil record**!
 
-This repository contains an organised catalog of endogenous viral element (EVE) sequences recovered from published genome sequence data via database-integrated genome screening (DIGS). DIGS is an approach for systematically screening whole genome sequence (WGS) data in silico. 
+This repository contains an organised catalog of endogenous viral element (EVE) sequences recovered from published genome sequence data via **[database-integrated genome screening (DIGS)](http://giffordlabcvr.github.io/DIGS-tool/)**. DIGS is an approach for systematically screening whole genome sequence (WGS) data in silico. 
 
 WGS assemblies screened in this project were obtained from the National Center for Biotechnology Information's [genome](https://www.ncbi.nlm.nih.gov/genome/) resource.
 
