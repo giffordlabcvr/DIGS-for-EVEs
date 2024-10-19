@@ -1,0 +1,21 @@
+Added
+
+efln-filo.32-Vespertilionidae_NP	
+HSILNDALGPMDSVQFIPPRVNNIKVLDGKGLEARVHQIIECCEAGASVHAREHLLAT*L
+CCYHYRGDFGSMIRSPFGQYLAADGYELSSKSAGTTRAALTPDRAAIGCMEGFVPAIKDL
+PPPKLLGKCAAFFMARVSLFLPKLVTGEGACAPKVEKAFPQLDTQGISIVSRSWMSPTVM
+RFAHQTLGLCLTILSSLIYHVLPIRERGVMR*TLSWPVLSSNPIFQAFQWPAMCYHTSLQ
+RKEAPSRYTLQHGADGQRRKWLDLNPVFQTSKPTGFMRHSQESSDPREWLKLSTDHFHVD
+LQLLS
+
+
+# Renamed
+
+efln-filo.28-Diprotodontia_NP	efln-filo.29-Diprotodontia_NP
+efln-filo.25-Vespertilionidae_NP	efln-filo.31-Vespertilionidae_NP	
+
+
+ebln-borna.100-Scalopus_aquaticus	ebln-borna.112-Scalopus_aquaticus
+ebln-borna.100-Zapus_hudsonius	ebln-borna.113-Zapus_hudsonius
+ebln-borna.101-Sromiciops_gliroides	ebln-borna.114-Sromiciops_gliroides
+ebln-borna.102-Anilios_bituberculatus	ebln-borna.115-Anilios_bituberculatus
